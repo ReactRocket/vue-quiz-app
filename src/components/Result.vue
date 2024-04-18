@@ -15,7 +15,7 @@
 export default {
     name: "Result",
     props: ['marks', 'total', "attempted"]
-}
+} 
 </script>
 <style scoped>
 .main {
