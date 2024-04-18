@@ -18,7 +18,7 @@ export default {
 } 
 </script>
 <style scoped>
-.main {
+.main { 
     height: 500px;
     width: 500px;
     background-color: white;
